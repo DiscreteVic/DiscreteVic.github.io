@@ -1,4 +1,10 @@
-# Discrete electrons 
+---
+title: Discrete electrons diaries
+layout: default
+---
+
+<link rel="stylesheet" type="text/css" href="/css/style.css">
+
 by DiscreteVic
 
 This is a progress log for my project. I will use this to document developments, challenges, and any other relevant information.
