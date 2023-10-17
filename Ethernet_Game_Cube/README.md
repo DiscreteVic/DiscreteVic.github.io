@@ -3,7 +3,16 @@
 
 Progress about the development of a new custom broadband adapter to the Game Cube.
 
-![Logotipo de mi proyecto](/assets/gcbbafront.png)
+- Front picture of the GAME CUBE with the BBA 
+![GC bba front](/assets/gcbbafront.png)
+
+- Pictures of the BBA (JAP. version)
+![official bba front](/assets/officialbbafront.png)
+
+![official bba back](/assets/officialbbaback.png)
+
+- Down picture of the GAME CUBE withour the serial port 1 cover
+![serial port 1](/assets/sp1port.png)
 
 
 
