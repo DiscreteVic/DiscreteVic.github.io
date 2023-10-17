@@ -5,5 +5,5 @@ by DiscreteVic
 
 This page will collect my personal projects
 
-## Ethernet GAME CUBE(/Ethernet_Game_Cube/)
+## [Ethernet GAME CUBE](/Ethernet_Game_Cube/)
 
