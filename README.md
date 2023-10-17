@@ -1,7 +1,3 @@
----
-title: Discrete electrons diaries
-layout: default
----
 
 <link rel="stylesheet" type="text/css" href="/css/style.css">
 
