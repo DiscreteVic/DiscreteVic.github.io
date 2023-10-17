@@ -3,6 +3,10 @@
 
 Progress about the development of a new custom broadband adapter to the Game Cube.
 
+![Logotipo de mi proyecto](/assets/gcbbafront.png)
+
+
+
 ## Day 1: [17/10/2023]
 
 ### Researching
