@@ -7,3 +7,5 @@ This page will collect my personal projects
 
 ## [Ethernet GAME CUBE](/Ethernet_Game_Cube/)
 
+## [MOS6507 Core](/MOS6507_core/)
+
