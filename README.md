@@ -9,3 +9,5 @@ This page will collect my personal projects
 
 ## [MOS6507 Core](/MOS6507_core/)
 
+## [Analogue Pocket Development](/Analogue_Pocket_Development/)
+
