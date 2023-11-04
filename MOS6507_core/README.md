@@ -16,3 +16,9 @@ The basic project was created using my previous project of the [VGA Controller](
 In my previous project [7SegController](https://github.com/DiscreteVic/7SegController) is explained how to set up the enviroment.
 
 
+### Day 1: [2/11/2023]
+
+### Initial developments
+
+- Ported 7 segment display controller to VHDL to debug any value with the DE10 board
+
