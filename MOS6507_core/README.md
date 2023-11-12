@@ -22,3 +22,16 @@ In my previous project [7SegController](https://github.com/DiscreteVic/7SegContr
 
 - Ported 7 segment display controller to VHDL to debug any value with the DE10 board
 
+### Day 1: [12/11/2023] 
+
+### Basic entities development
+
+- Generic Register Entity: Basic structure of a byte register.
+    Definition of the interface and the logic.
+
+- ALU Entity: Basic structure .
+    Logic to add and substract with carry.
+
+- Tested basic functionality of the entities
+
+[Work day commit](https://github.com/DiscreteVic/MOS6507-HDL-core/commit/d83a69c1b86c59c84be04b4f2dcdceae930be168)
