@@ -24,7 +24,7 @@ In my previous project [7SegController](https://github.com/DiscreteVic/7SegContr
 
 ### Day 1: [12/11/2023] 
 
-### Basic entities development
+### [Basic entities development](https://github.com/DiscreteVic/MOS6507-HDL-core/commit/d83a69c1b86c59c84be04b4f2dcdceae930be168)
 
 - Generic Register Entity: Basic structure of a byte register.
     Definition of the interface and the logic.
@@ -33,5 +33,3 @@ In my previous project [7SegController](https://github.com/DiscreteVic/7SegContr
     Logic to add and substract with carry.
 
 - Tested basic functionality of the entities
-
-[Work day commit](https://github.com/DiscreteVic/MOS6507-HDL-core/commit/d83a69c1b86c59c84be04b4f2dcdceae930be168)
