@@ -3,7 +3,7 @@
 
 Progress about the design and development of the MOS6507 (Atari 2600) core for a FPGA. Using VHDL for the implementation. [Project sources](https://github.com/DiscreteVic/MOS6507-HDL-core)
 
-## Previous work:
+## 1.Previous work:
 
 The basic project was created using my previous project of the [VGA Controller](https://github.com/DiscreteVic/VGAController) as template. 
 
@@ -15,9 +15,9 @@ The basic project was created using my previous project of the [VGA Controller](
 
 In my previous project [7SegController](https://github.com/DiscreteVic/7SegController) is explained how to set up the enviroment.
 
-## [Work diary](/MOS6507_core/WorkDiary/)
+## 2.[Work diary](/MOS6507_core/WorkDiary/)
 
-## Current status
+## 3.Current status:
 ### Instruction set 
 
 [6502 Instrucction set](https://www.masswerk.at/6502/6502_instruction_set.html#details)
@@ -52,8 +52,8 @@ In my previous project [7SegController](https://github.com/DiscreteVic/7SegContr
   - [ ] INY
 
 - Arithmetic Operations
-  - [ ] ADC
-  - [ ] SBC
+  - [x] ADC
+  - [x] SBC
 
 - Logical Operations
   - [ ] AND
