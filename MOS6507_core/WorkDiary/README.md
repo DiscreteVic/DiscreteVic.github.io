@@ -34,3 +34,9 @@ Logic to add and substract with carry.
 
 - Tested basic functionality of the entities
 
+### Day 4: [15/11/2023] 
+
+### [General purpose registers (X, Y](https://github.com/DiscreteVic/MOS6507-HDL-core/commit/3189cbc793c9d3d3e3154dc78ca9088a504627e1)
+
+- General purpose register developed, including increment and decrement operation.
+

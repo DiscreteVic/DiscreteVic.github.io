@@ -45,11 +45,11 @@ In my previous project [7SegController](https://github.com/DiscreteVic/7SegContr
 
 - Decrements & Increments
   - [ ] DEC
-  - [ ] DEX
-  - [ ] DEY
+  - [x] DEX
+  - [x] DEY
   - [ ] INC
-  - [ ] INX
-  - [ ] INY
+  - [x] INX
+  - [x] INY
 
 - Arithmetic Operations
   - [x] ADC
@@ -76,3 +76,30 @@ In my previous project [7SegController](https://github.com/DiscreteVic/7SegContr
   - [ ] SEI
 
 
+- Comparisons
+  - [ ] CMP
+  - [ ] CPX
+  - [ ] CPY
+
+- Conditional Branch Instructions
+  - [ ] BCC
+  - [ ] BCS
+  - [ ] BEQ
+  - [ ] BMI
+  - [ ] BNE
+  - [ ] BPL
+  - [ ] BVC
+  - [ ] BVS
+
+- Jumps & Subroutines
+  - [ ] JMP
+  - [ ] JSR
+  - [ ] RTS
+
+- Interrupts
+  - [ ] BRK
+  - [ ] RTI
+
+- Other
+  - [ ] BIT
+  - [ ] NOP
