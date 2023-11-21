@@ -32,6 +32,7 @@ They can have three states in each transmission: passive (not involved), write (
 
 The default state is passive.
 
+The nodes can be unidirectional(write or read) or bidirectional(write and read).
 
 ### Signals
 
@@ -39,9 +40,10 @@ The default state is passive.
 
 Enable [1 bit] -> "0": (default) Pasive, not involved every signal remains 'Z'(high impedance). "1": Active, Write or Read from/to data bus according Operation signal.
 
-Operation [1 bit] -> "0": (default) Read from data bus. "1": Active, Write to data bus.
+Operation [1 bit] -> "0": (default) Read from data bus. "1": Active, Write to data bus. Required just for bidirectional nodes.
 
 - Data (Node <-> Bus):
 
 Signal of 8 bit width, the value depends of the control signals.
 
+![bus example](/assets/busex.png)
