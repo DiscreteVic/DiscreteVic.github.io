@@ -13,6 +13,7 @@ The bus allows three states: Logic 0, Logic 1, and Z (high impedance).
 
 Every communication over the bus is half-duplex.
 
+The clock signal is shared between every component.
 
 ### Components
 
@@ -32,15 +33,17 @@ They can have three states in each transmission: passive (not involved), write (
 
 The default state is passive.
 
-The nodes can be unidirectional(write or read) or bidirectional(write and read).
+The nodes can be unidirectional(write) or bidirectional(write and read).
+
+In each transmission there is one exclusive write node simultaneous. 
 
 ### Signals
 
 - Control (Controller -> Node):
 
-Enable [1 bit] -> "0": (default) Pasive, not involved every signal remains 'Z'(high impedance). "1": Active, Write or Read from/to data bus according Operation signal.
+Enable [1 bit] -> "0": (default) Pasive, not involved at communication, every signal remains 'Z'(high impedance). "1": Active, Write to data bus.
 
-Operation [1 bit] -> "0": (default) Read from data bus. "1": Active, Write to data bus. Required just for bidirectional nodes.
+Load [1 bit] -> "0": (default) Pasive, not involved at communication. "1": Active, Reads from data bus. Required just for bidirectional nodes.
 
 - Data (Node <-> Bus):
 

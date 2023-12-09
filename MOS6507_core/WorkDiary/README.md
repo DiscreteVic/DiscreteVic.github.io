@@ -54,4 +54,14 @@ Logic to add and substract with carry.
 
 - Following the specifications of the datasheet (from the day before). A custom bus specification needs to be defined. The definition, the specification and the implementation is covered at its specific section: [Internal Bus specification](/MOS6507_core/BusSpec/)
 
+## Day 7: [09/12/2023] 
+
+
+### Custom bus working following example
+
+- Finished, bus specification and implementation.
+
+- Basic test done. 
+
+- Implementation based on oddek project ([link](https://github.com/oddek/8-bit-Computer/tree/master)).
 
