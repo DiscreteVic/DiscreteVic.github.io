@@ -57,7 +57,7 @@ Logic to add and substract with carry.
 ## Day 7: [09/12/2023] 
 
 
-### Custom bus working following example
+### [Custom bus working](https://github.com/DiscreteVic/MOS6507-HDL-core/commit/3fe91ebb7985b82792e4cc67b4a8d8c0d8692621)
 
 - Finished, bus specification and implementation.
 
