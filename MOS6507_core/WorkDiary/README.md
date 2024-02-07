@@ -63,5 +63,5 @@ Logic to add and substract with carry.
 
 - Basic test done. 
 
-- Implementation based on oddek project ([link](https://github.com/oddek/8-bit-Computer/tree/master)).
+- Implementation based on ([oddek project](https://github.com/oddek/8-bit-Computer/tree/master)).
 
