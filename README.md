@@ -5,7 +5,7 @@ by DiscreteVic
 
 This page will collect my personal projects
 
-## [Ethernet GAME CUBE](/Minimal_Xilinx_Env/)
+## [Minimal Xilinx Enviroment](/Minimal_Xilinx_Env/)
 
 ## [Ethernet GAME CUBE](/Ethernet_Game_Cube/)
 
