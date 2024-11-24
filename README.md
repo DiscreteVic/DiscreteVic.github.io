@@ -5,13 +5,16 @@ by DiscreteVic
 
 This page will collect my personal projects
 
-## [Minimal Xilinx Enviroment](/Minimal_Xilinx_Env/)
+### [Minimal Xilinx Enviroment](/Minimal_Xilinx_Env/)
 
-## [Ethernet GAME CUBE](/Ethernet_Game_Cube/)
+### [RTL IPs](/RTL_IPs/)
 
-## [MOS6507 Core](/MOS6507_core/)
 
-## [Analogue Pocket Development](/Analogue_Pocket_Development/)
+## Halted projects
 
-## [RTL IPs](/RTL_IPs/)
+### [Ethernet GAME CUBE](/Ethernet_Game_Cube/)
+
+### [MOS6507 Core](/MOS6507_core/)
+
+### [Analogue Pocket Development](/Analogue_Pocket_Development/)
 
