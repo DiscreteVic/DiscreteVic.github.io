@@ -5,6 +5,8 @@ by DiscreteVic
 
 This page will collect my personal projects
 
+### [RISC-V Minimal Core](/RISC-V_Minimal_Core/)
+
 ### [Minimal Xilinx Enviroment](/Minimal_Xilinx_Env/)
 
 ### [RTL IPs](/RTL_IPs/)
