@@ -1,10 +1,9 @@
 # RISC-V Minimal Core
 <link rel="stylesheet" type="text/css" href="/css/style.css">
 
-Page where the development of the RISC-V minmal core based on Computer organization and design RISC-V edition,  
-[(Github project)](https://github.com/DiscreteVic/RISC-V-minimal-core).
+Page where the development of the RISC-V minmal core based on Computer organization and design RISC-V edition, [(Github project)](https://github.com/DiscreteVic/RISC-V-minimal-core).
 
-# Day 1: [25/11/2024]
+## Day 1: [25/11/2024]
 
 ### Building a Datapath - Register File
 
