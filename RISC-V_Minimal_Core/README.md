@@ -28,4 +28,13 @@ Page where the development of the RISC-V minmal core based on Computer organizat
 
 
 
+## Day 4: [02/12/2024]
+
+### Building a Datapath - Primitives blocks
+
+- In order to be the most independet as possible of the implementation tools (IDE), the primitives blocks as muxs, adders and shifters, are going to be implemented in VHDL.
+- Mux, adder and synchronous register implemented.([commit](https://github.com/DiscreteVic/RISC-V-minimal-core/commit/d351468cd8dd86422986a9e54dcfaef72e810144)).
+
+
+
 
