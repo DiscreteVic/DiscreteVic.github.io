@@ -43,13 +43,28 @@ Page where the development of the RISC-V minmal core based on Computer organizat
 
 - Block in charge of generate the immediate value from the instrucction. The main functionality is the bits reording. The key with this block is to know where are located the immediate value (its bits) on the entire instruction. 
 
+<style>
+  table {
+    border-collapse: collapse;
+    width: 100%;
+    background-color: white;
+  }
+  th {
+    background-color: #007bff;
+    color: white;
+    padding: 8px;
+    text-align: center;
+  }
+  td {
+    padding: 8px;
+    text-align: center;
+    border: 1px solid #ddd;
+  }
+</style>
+
 | bits     | 0-6      | 7-11   | 12-14    | 15-19  | 20-24  | 25-31    |
 |----------|----------|--------|----------|--------|--------|----------|
 | R-type   | `opcode` | `rd`   | `funct3` | `rs1`  | `rs2`  | `funct7` |
-|----------|----------|--------|----------|--------|--------|----------|
-| L-type    | `opcode` | `rd`   | `funct3` | `rs1`  | `imm[11:0]` |
-|----------|----------|--------|----------|--------|--------|----------|
-| S-type    | `opcode` | `imm[4:0]` | `funct3` | `rs1`  | `rs2`  | `imm[11:5]` |
-|----------|----------|--------|----------|--------|--------|----------|
-| SB-Type    | `opcode` | `imm[11,4:1]` | `funct3` | `rs1`  | `rs2`  | `imm[10:5,12]` |
-|----------|----------|--------|----------|--------|--------|----------|
+| L-type   | `opcode` | `rd`   | `funct3` | `rs1`  | `imm[11:0]` |         |
+| S-type   | `opcode` | `imm[4:0]` | `funct3` | `rs1`  | `rs2`  | `imm[11:5]` |
+| SB-type  | `opcode` | `imm[11,4:1]` | `funct3` | `rs1`  | `rs2`  | `imm[10:5,12]` |
