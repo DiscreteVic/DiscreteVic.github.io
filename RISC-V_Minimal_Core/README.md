@@ -69,6 +69,6 @@ Page where the development of the RISC-V minmal core based on Computer organizat
 | bits     | 0-6      | 7-11   | 12-14    | 15-19  | 20-24  | 25-31    |
 |----------|----------|--------|----------|--------|--------|----------|
 | R-type   | `opcode` | `rd`   | `funct3` | `rs1`  | `rs2`  | `funct7` |
-| L-type   | `opcode` | `rd`   | `funct3` | `rs1`  | `imm[11:0]` |         |
+| L-type   | `opcode` | `rd`   | `funct3` | `rs1`  | `imm[11:0]` |
 | S-type   | `opcode` | `imm[4:0]` | `funct3` | `rs1`  | `rs2`  | `imm[11:5]` |
 | SB-type  | `opcode` | `imm[11,4:1]` | `funct3` | `rs1`  | `rs2`  | `imm[10:5,12]` |
