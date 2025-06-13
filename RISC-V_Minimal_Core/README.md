@@ -72,3 +72,11 @@ Page where the development of the RISC-V minmal core based on Computer organizat
 | L-type   | `opcode` | `rd`   | `funct3` | `rs1`  | `imm[11:0]` |
 | S-type   | `opcode` | `imm[4:0]` | `funct3` | `rs1`  | `rs2`  | `imm[11:5]` |
 | SB-type  | `opcode` | `imm[11,4:1]` | `funct3` | `rs1`  | `rs2`  | `imm[10:5,12]` |
+
+
+
+## Day 5: [04/12/2024]
+
+### Building a Datapath - Immediate generator implementation
+
+- 
