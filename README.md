@@ -4,6 +4,7 @@
 by DiscreteVic
 
 This page will collect my personal projects
+### [Duo Module 01](/Duo_module_01/)
 
 ### [Game Boy Emulator](/GB_emu/)
 
